@@ -1,0 +1,8 @@
+install the reqs
+
+pip install -r requirements.txt
+
+use the prefix !i to chat with the bot, example :
+                                                    !i <message>                                       
+                                                    !i hello!
+                                                    
